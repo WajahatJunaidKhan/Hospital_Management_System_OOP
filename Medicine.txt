@@ -1,0 +1,11 @@
+101,Paracetomol,4
+102,Synthroid,40
+103,Crestor,50
+104,Ventolin,20
+105,Nexium,15
+105,Advair,32
+107,Lantus,43
+108,Vyvanse,21
+109,yrica,10
+110,Spiriva,5
+111,Januvia,9
